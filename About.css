@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    /*border-radius: 15px; */
+    border-style: dotted
+}
+
+.th, td {
+    background-color: #96D4D4;
+  }
+
+  th, td {
+    border-color: brown;
+  }
